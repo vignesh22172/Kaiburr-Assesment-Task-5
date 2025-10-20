@@ -72,7 +72,5 @@ Linear SVM achieved the highest accuracy and produced the most balanced confusio
 ## 📉 Visual Results
 
 ### 🔹 Model Accuracy Comparison
-Insert your screenshot here (use the filename from your notebook output):
+![Logistic Regression CM]("C:\Users\vigne\Pictures\Screenshots\Screenshot 2025-10-20 180623.png")
 
-```markdown
-![Model Comparison](screenshots/model_comparison.png)
